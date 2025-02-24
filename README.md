@@ -48,5 +48,5 @@ npm run dev
 - **New Chat Page:** Start fresh chats without refreshing.
 - **Modern UI:** Sleek and user-friendly design.
 
-Enjoy your chatbot! 🚀
+
 
